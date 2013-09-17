@@ -1,3 +1,3 @@
-source 'http://mirror1.ops.rhcloud.com/mirror/ruby/'
+source 'https://rubygems.org'
 
 gem 'mysql'
